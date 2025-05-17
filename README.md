@@ -1,6 +1,7 @@
 
 # 🚀 MVPDocs – Talk to Your PDFs, Like Never Before
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue.svg" />
   <img src="https://img.shields.io/badge/Streamlit-Enabled-red" />
@@ -30,7 +31,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://i.imgur.com/f8J4JrD.gif" width="700"/>
+  <img src="https://github.com/imanavpathak/MVP-pdf-chatbot/blob/main/manav.png" width="700"/>
   <br>
   <i>“Ask anything from your documents — and get answers in seconds.”</i>
 </p>
