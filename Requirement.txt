@@ -1,0 +1,31 @@
+# Core Language & Embedding Models
+openai==1.14.3
+langchain==0.1.14
+python-dotenv==1.0.1
+
+# PDF Parsing
+PyPDF2==3.0.1
+
+# Vector Storage
+faiss-cpu==1.7.4
+
+# Web App (Frontend)
+streamlit==1.33.0
+
+# UI Beautification (optional but good for visuals)
+streamlit-extras==0.2.8  # For features like collapsible sections, card UI
+
+# Data Handling
+numpy==1.26.4
+
+# Image rendering (if needed)
+Pillow==10.2.0
+
+# Optional: HuggingFace embeddings (if not using OpenAI only)
+# sentence-transformers==2.2.2
+
+# Optional: For custom CSS animations if you embed HTML
+streamlit-components==0.1.5
+
+# OS Utilities
+tqdm==4.66.2
