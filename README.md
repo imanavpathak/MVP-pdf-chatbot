@@ -68,6 +68,12 @@ streamlit run app.py
 ```
 
 ---
+<p align="center">
+  <img src="https://github.com/imanavpathak/MVP-pdf-chatbot/blob/main/Screenshot%202025-05-17%20184940.png" width="700"/>
+  <br>
+  <i>“just ask anything”</i>
+</p>
+
 
 ## 💡 Use Cases
 
@@ -82,6 +88,12 @@ streamlit run app.py
 
 Designed & Developed with 💙 by **Manav Pathak (MVP)**  
 _“Your PDFs. Now searchable, smart, and chat-ready.”_
+
+<p align="center">
+  <img src="https://github.com/imanavpathak/MVP-pdf-chatbot/blob/main/manav2.jpg" width="700"/>
+  <br>
+  <i>“just ask anything”</i>
+</p>
 
 ---
 
